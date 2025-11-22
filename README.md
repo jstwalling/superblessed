@@ -4,7 +4,7 @@ AI-powered blessing cards with Bible verses.
 
 ## Requirements
 
-- Node.js 18+
+- Node.js 22+
 - pnpm
 
 ## Setup
