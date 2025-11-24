@@ -20,6 +20,7 @@ export default tseslint.config(
       ...reactHooksPlugin.configs.recommended.rules,
       ...nextPlugin.configs.recommended.rules,
       ...nextPlugin.configs['core-web-vitals'].rules,
+      semi: ['error', 'always'],
     },
     settings: {
       react: {
